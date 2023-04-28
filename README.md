@@ -1,1 +1,2 @@
-# automatizacion_registro
+# Automatización registro de un usuario.
+
